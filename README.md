@@ -6,6 +6,7 @@
 
 A simple password generator that allows users to create secure passwords with customizable options such as length, uppercase letters, lowercase letters, numbers, and symbols.
 
+<img src="safekey.png">
 ## Features
 
 - Generate passwords of varying lengths (default is 10 characters).
